@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Villanueva-Dashboard/static/css/main.6124bfd8.css",
+    "main.js": "/Villanueva-Dashboard/static/js/main.33b422e3.js",
+    "static/media/profile.png": "/Villanueva-Dashboard/static/media/profile.69cd10e2c012d62bffe4.png",
+    "index.html": "/Villanueva-Dashboard/index.html",
+    "main.6124bfd8.css.map": "/Villanueva-Dashboard/static/css/main.6124bfd8.css.map",
+    "main.33b422e3.js.map": "/Villanueva-Dashboard/static/js/main.33b422e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6124bfd8.css",
+    "static/js/main.33b422e3.js"
+  ]
+}
